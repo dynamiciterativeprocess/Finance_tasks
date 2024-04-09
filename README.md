@@ -3,10 +3,6 @@ title: Python for Finance - Mastering Data Driven Finance, 2nd Edition
 author book: Yves Hilpisch 
 Github author: Naomi Pereira
 date: April, 2024
-output:
-  html_document:
-    toc: true
-    toc_float: true
 ---
 
 # Exercise 1.1: Monte Carlo Valuation of European Call Options
